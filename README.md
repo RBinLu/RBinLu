@@ -1,4 +1,4 @@
-# Bin / RBinLu
+# R. Bin Lu / RBinLu
 
 I build practical software for accounting operations, workflow automation, and cloud infrastructure.
 
